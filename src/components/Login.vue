@@ -55,7 +55,7 @@ export default {
     background:url("../assets/naratu.jpg") no-repeat;
     background-position: center;
     height: 100%;
-    width: 100%;
+    width: 300%;
     background-size: cover;
     position: fixed;
   }
